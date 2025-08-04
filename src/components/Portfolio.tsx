@@ -110,6 +110,15 @@ const Portfolio = () => {
       description: "Villa esclusiva sulla Costiera Amalfitana con vista panoramica mozzafiato sul mare e terrazze private",
       stats: { views: "11.2k", engagement: "95%" },
       link: "https://realsee.ai/7kyyNE2Y"
+    },
+    {
+      id: 12,
+      title: "Parma Palazzo Liberati Trilocale",
+      category: "immobiliare",
+      image: "/lovable-uploads/c3f31521-68fd-4a0f-b2c2-e687cd453910.png",
+      description: "Elegante trilocale nel centro storico di Parma con soffitti con travi a vista, cucina rustica e ampi spazi luminosi",
+      stats: { views: "6.4k", engagement: "88%" },
+      link: "https://realsee.ai/jmxxRajd"
     }
   ];
 
