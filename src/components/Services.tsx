@@ -57,9 +57,7 @@ const Services = () => {
         {/* Servizi Principali */}
         <div className="mb-20">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-bold font-space-grotesk text-navy-deep mb-4">
-              🧭 Servizi Principali
-            </h3>
+            <h3 className="text-3xl font-bold font-space-grotesk text-navy-deep mb-4"> Servizi Principali</h3>
             <p className="text-lg text-gray-600">
               Il cuore di Copiadigitale - le nostre specializzazioni principali
             </p>
