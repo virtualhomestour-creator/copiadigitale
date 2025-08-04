@@ -101,6 +101,15 @@ const Portfolio = () => {
       description: "Virtual tour di casa moderna su due livelli con ampi spazi luminosi e finiture di qualità",
       stats: { views: "4.8k", engagement: "91%" },
       link: "https://realsee.ai/N4eeOlDg"
+    },
+    {
+      id: 11,
+      title: "Villa in Furore - Costiera Amalfitana",
+      category: "immobiliare",
+      image: "/lovable-uploads/81b253e0-5cf7-49fe-8088-7595806b2cf2.png",
+      description: "Villa esclusiva sulla Costiera Amalfitana con vista panoramica mozzafiato sul mare e terrazze private",
+      stats: { views: "11.2k", engagement: "95%" },
+      link: "https://realsee.ai/7kyyNE2Y"
     }
   ];
 
