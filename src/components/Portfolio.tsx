@@ -28,46 +28,6 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Yacht Azimut 78 - Marina di Portofino",
-      category: "nautica",
-      image: "/api/placeholder/400/300",
-      description: "Virtual tour completo di yacht di lusso con ogni dettaglio",
-      stats: { views: "12k", engagement: "92%" }
-    },
-    {
-      id: 3,
-      title: "Showroom Ferrari - Milano",
-      category: "retail",
-      image: "/api/placeholder/400/300",
-      description: "Esperienza immersiva nel mondo Ferrari con configuratore 3D",
-      stats: { views: "25k", engagement: "78%" }
-    },
-    {
-      id: 4,
-      title: "Hotel Belmond - Portofino",
-      category: "hospitality",
-      image: "/api/placeholder/400/300",
-      description: "Tour virtuale di suite e aree comuni del resort 5 stelle",
-      stats: { views: "18k", engagement: "88%" }
-    },
-    {
-      id: 5,
-      title: "Appartamento Design - Centro Storico",
-      category: "immobiliare",
-      image: "/api/placeholder/400/300",
-      description: "Loft moderno con arredamento di design e terrazza panoramica",
-      stats: { views: "9k", engagement: "91%" }
-    },
-    {
-      id: 6,
-      title: "Ristorante Michelin - Torino",
-      category: "hospitality",
-      image: "/api/placeholder/400/300",
-      description: "Atmosfera esclusiva del ristorante stellato con cucina a vista",
-      stats: { views: "14k", engagement: "87%" }
-    },
-    {
-      id: 7,
       title: "Sito Archeologico Cavellas",
       category: "cultura",
       image: "/lovable-uploads/4034faa1-1360-4cd5-bc81-343fb22e9d3a.png",
@@ -76,7 +36,7 @@ const Portfolio = () => {
       link: "https://realsee.ai/qjMMwaB6"
     },
     {
-      id: 8,
+      id: 3,
       title: "Valente Italian Properties Roma",
       category: "immobiliare",
       image: "/lovable-uploads/30819a08-f5b4-443e-802e-5476e3043baf.png",
@@ -85,7 +45,7 @@ const Portfolio = () => {
       link: "https://realsee.ai/3kYYWYER"
     },
     {
-      id: 9,
+      id: 4,
       title: "Riva Boutique - Marciana Marina",
       category: "retail",
       image: "/lovable-uploads/3f83da03-bf00-4cc8-b133-073d8ec2c133.png",
@@ -94,7 +54,7 @@ const Portfolio = () => {
       link: "https://realsee.ai/8VRR9eNj"
     },
     {
-      id: 10,
+      id: 5,
       title: "Immobile su due piani - Reggio Emilia",
       category: "immobiliare",
       image: "/lovable-uploads/87830f59-9930-4456-a88e-ca2d56cba25a.png",
@@ -103,7 +63,7 @@ const Portfolio = () => {
       link: "https://realsee.ai/N4eeOlDg"
     },
     {
-      id: 11,
+      id: 6,
       title: "Villa in Furore - Costiera Amalfitana",
       category: "immobiliare",
       image: "/lovable-uploads/81b253e0-5cf7-49fe-8088-7595806b2cf2.png",
@@ -112,7 +72,7 @@ const Portfolio = () => {
       link: "https://realsee.ai/7kyyNE2Y"
     },
     {
-      id: 12,
+      id: 7,
       title: "Parma Palazzo Liberati Trilocale",
       category: "immobiliare",
       image: "/lovable-uploads/c3f31521-68fd-4a0f-b2c2-e687cd453910.png",
